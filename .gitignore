@@ -1,0 +1,24 @@
+# Entorno virtual
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Base de datos local
+agenda.db
+config_email.json
+
+# Backups locales
+backups/
+
+# Compilados de PyInstaller
+build/
+dist/
+*.spec
+
+# El AppImage (se sube como "Release", no como código)
+MiAgenda-x86_64.AppImage
+AppDir/
