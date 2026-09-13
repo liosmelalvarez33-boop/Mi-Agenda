@@ -22,3 +22,7 @@ dist/
 # El AppImage (se sube como "Release", no como código)
 MiAgenda-x86_64.AppImage
 AppDir/
+
+# Archivos temporales
+citas_*.xlsx
+instalar_mejoras.sh
